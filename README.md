@@ -1,4 +1,5 @@
 # Web Scraping de Preços de Celulares - Magalu
+
 Desenvolvi um projeto de web scraping focado em uma loja de celulares, usando a biblioteca Selenium. 
 
 Com conhecimentos recém-adquiridos em web scraping, criei um script em Python que automatizou a coleta de informações sobre os modelos de celulares, incluindo nomes, preços e especificações.
