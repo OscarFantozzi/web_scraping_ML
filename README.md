@@ -1,27 +1,11 @@
 # Web Scraping de Preços de Celulares - Magalu
-Este projeto utiliza a biblioteca Selenium em Python para buscar informações de preços de celulares na loja online Magazine Luiza (Magalu). 
-O objetivo é coletar nomes de celulares, preços originais e preços com desconto, e salvar essas informações em um arquivo Excel.
+Desenvolvi um projeto de web scraping focado em uma loja de celulares, usando a biblioteca Selenium. 
 
-Como Funciona
-O projeto usa um "robô" (um script) para navegar pela página da loja Magalu.
+Com conhecimentos recém-adquiridos em web scraping, criei um script em Python que automatizou a coleta de informações sobre os modelos de celulares, incluindo nomes, preços e especificações.
 
-O robô encontra e coleta os nomes e preços dos celulares.
+Utilizei o Selenium para navegar pelas páginas dinâmicas da loja, garantindo que nenhum dado fosse perdido. Depois de coletar os dados, utilizei bibliotecas Python para organizá-los e exportei-os para um arquivo Excel.
 
-Os preços são organizados em preços originais e preços com desconto.
-
-As informações são colocadas em uma lista.
-
-Como Usar
-
-Instale o Python (se já não tiver) e instale as bibliotecas necessárias:
-
-Copy code
-
-pip install selenium pandas
-
-Certifique-se de ter o ChromeDriver instalado e disponível no seu computador.
-
-Baixe o arquivo "web_scraping_magalu.py".
+Esse projeto não só me deu prática em web scraping, mas também me ensinou sobre automação e manipulação de dados de forma direta e aplicável.
 
 Abra o arquivo usando um editor de texto.
 
