@@ -1,11 +1,9 @@
 # Web Scraping de Preços de Celulares - Magalu
 
-Desenvolvi um projeto de web scraping focado em uma loja de celulares, usando a biblioteca Selenium. 
+## Contexto:
+Este projeto consiste em uma pequena automação que desenvolvi porque desejava monitorar os preços de diferentes marcas de celulares em um importante site de varejo brasileiro. A abordagem envolveu o uso da biblioteca Selenium para extrair os dados e exportá-los para uma planilha do Excel. A parte de extração de dados já está concluída.
 
-Com conhecimentos recém-adquiridos em web scraping, criei um script em Python que automatizou a coleta de informações sobre os modelos de celulares, incluindo nomes, preços e especificações.
-
-Utilizei o Selenium para navegar pelas páginas dinâmicas da loja, garantindo que nenhum dado fosse perdido. Depois de coletar os dados, utilizei bibliotecas Python para organizá-los e exportei-os para um arquivo Excel.
-
-Esse projeto não só me deu prática em web scraping, mas também me ensinou sobre automação e manipulação de dados de forma direta e aplicável.
+## Próximos Passos:
+A ideia para o futuro é criar um aplicativo usando o Streamlit ou um site HTML simples onde os usuários possam inserir a marca e uma faixa de preço que desejam acompanhar, juntamente com seu endereço de e-mail. Após isso, será necessário integrar a lógica de envio de e-mail para que o script envie um relatório contendo as informações do celular desejado e a faixa de preço. Este projeto ainda está em andamento.
 
 
